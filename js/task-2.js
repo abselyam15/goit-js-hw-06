@@ -1,5 +1,5 @@
 class Storage {
-    items
+    #items
 
     constructor(initialItems) {
         this.items = initialItems
